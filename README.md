@@ -1,4 +1,4 @@
-### Hi there ![image](https://user-images.githubusercontent.com/98704862/234561483-7360fe39-1e0e-470f-822f-5ed0bf256562.png)
+### Hi there <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="40" height="40" />
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=icozonac&show_icons=true&theme=radical)
