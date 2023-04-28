@@ -16,7 +16,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-github-1521500-1288242.png?f=avif&w=256" />
+  <img align="center" height="30" width="40" src="https://cdn.iconscout.com/icon/free/png-512/free-github-163-761603.png?f=avif&w=256" />
   
 </div>
 
