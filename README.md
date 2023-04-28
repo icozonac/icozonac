@@ -6,6 +6,7 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=icozonac&show_icons=true&theme=radical"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=icozonac&layout=compact&theme=radical"/>
 </div>
+<br>
 
 <div align="center" valign="top">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
