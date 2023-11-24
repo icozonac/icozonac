@@ -22,5 +22,5 @@ My name is Ion and I am a passionate programmer with experience in web developme
 </div>
 
 
-![Snake animation](https://github.com/icozonac/icozonac/blob/output/github-contribution-grid-snake.svg)
+[Snake animation](https://github.com/icozonac/icozonac/blob/output/github-contribution-grid-snake.svg)
 
